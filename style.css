@@ -1,1 +1,27 @@
-
+body {
+  background-color: white;
+  color: black;
+  font-family: times roman, sans-serif;
+  margin: 10% 20%;
+}
+.header {
+  color: navy;
+}
+h5 {
+  border-bottom: 1px solid navy;
+  text-align: left;
+  font-size: 12.5px;
+}
+p, u1 {
+  font-size: 12px;
+}
+h6{
+  font-size: 11px;
+}
+.sub header {
+  text-align: left;
+}
+img {
+  width: 40%;
+  float: right;
+}
