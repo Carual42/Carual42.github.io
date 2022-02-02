@@ -22,7 +22,7 @@ h6{
   text-align: left;
 }
 .box{
-  height: 75px;
+  height: 100%;
   width: 30%;
   float: right;
   overflow: hidden;
